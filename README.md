@@ -1,5 +1,7 @@
 # Fibonacho
 `<t:1759507200>` Will lock into this s00n, maybe Friday ✌️
+here is where im going to put my notes and investigation:
+https://www.notion.so/ua-challenges-fibonacci-findings-notes/fibonacci-281479bc89768027b2cbe3c35989ba18#281479bc8976807b9689ed460cc08eba
 ## Description
 
 The Fibonacci sequence is a sequence of numbers defined as follows:
