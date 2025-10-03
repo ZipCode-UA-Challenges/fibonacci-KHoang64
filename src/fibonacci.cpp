@@ -19,6 +19,10 @@ uint64_t fibonacci(int n) {
     /**
      * @todo Implement the fibonacci function declared in include/fibonacci.hpp.
      */
+     
+     // dummy value
+     return 42;
+    
     return -1;
 }
 
