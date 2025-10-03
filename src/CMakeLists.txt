@@ -1,11 +1,2 @@
-set(Sources
-    fibonacci.cpp
-    main.cpp
-)
-
-set(Dirs
-    "../include"
-)
-
-add_library(src ${Sources})
-target_include_directories(src PUBLIC ${Dirs})
+add_library(fib fibonacci.cpp)
+target_link_libraries(fib PUBLIC fib_headers)

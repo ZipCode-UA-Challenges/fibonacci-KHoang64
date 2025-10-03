@@ -41,7 +41,7 @@ void fibonacciRacer(std::array<uint64_t, MAX_64_BIT_FIBONACCI_INDEX + 1>& result
  * @param[in] n The index (0-based) of the Fibonacci sequence to compute. Must
  *              be non-negative.
  * 
- * @return The n-th Fibonacci number.
+ * @return The fibonacci sum at the nth step
  */
 uint64_t fibonacci(int n);
 
